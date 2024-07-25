@@ -2,7 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.streamlit
+chroma
+data
+chroma/
+data/
+unwanted
+unwanted/
 # C extensions
 *.so
 
